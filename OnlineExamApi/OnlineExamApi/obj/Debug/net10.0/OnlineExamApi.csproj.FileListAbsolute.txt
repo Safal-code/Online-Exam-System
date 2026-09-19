@@ -1,0 +1,333 @@
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\OnlineExamApi.csproj.AssemblyReference.cache
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\OnlineExamApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\OnlineExamApi.AssemblyInfoInputs.cache
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\OnlineExamApi.AssemblyInfo.cs
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\OnlineExamApi.csproj.CoreCompileInputs.cache
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\OnlineExamApi.MvcApplicationPartsAssemblyInfo.cs
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\OnlineExamApi.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\OnlineExamApi.sourcelink.json
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\appsettings.Development.json
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\appsettings.json
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\OnlineExamApi.staticwebassets.endpoints.json
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\OnlineExamApi.exe
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\OnlineExamApi.deps.json
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\OnlineExamApi.runtimeconfig.json
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\OnlineExamApi.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\OnlineExamApi.pdb
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Azure.Core.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Azure.Identity.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Humanizer.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.Identity.Client.Broker.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.Identity.Client.NativeInterop.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\System.ClientModel.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\System.CodeDom.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\System.Memory.Data.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\runtimes\linux-x64\native\libmsalruntime.so
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\runtimes\osx-arm64\native\msalruntime_arm64.dylib
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\runtimes\osx-x64\native\msalruntime.dylib
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\runtimes\win-x64\native\msalruntime.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\scopedcss\bundle\OnlineExamApi.styles.css
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\staticwebassets.build.json
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\staticwebassets.development.json
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\swae.build.ex.cache
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\OnlineEx.9B9F62FF.Up2Date
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\OnlineExamApi.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\refint\OnlineExamApi.dll
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\OnlineExamApi.pdb
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\OnlineExamApi.genruntimeconfig.cache
+D:\PROJECTS\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\ref\OnlineExamApi.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\appsettings.Development.json
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\appsettings.json
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\OnlineExamApi.staticwebassets.endpoints.json
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\OnlineExamApi.exe
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\OnlineExamApi.deps.json
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\OnlineExamApi.runtimeconfig.json
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\OnlineExamApi.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\OnlineExamApi.pdb
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Azure.Core.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Azure.Identity.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Humanizer.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.Identity.Client.Broker.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.Identity.Client.NativeInterop.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Mono.TextTemplating.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\Newtonsoft.Json.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\System.ClientModel.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\System.CodeDom.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\System.Composition.Convention.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\System.Composition.Hosting.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\System.Composition.Runtime.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\System.Composition.TypedParts.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\System.Memory.Data.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\runtimes\linux-x64\native\libmsalruntime.so
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\runtimes\osx-arm64\native\msalruntime_arm64.dylib
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\runtimes\osx-x64\native\msalruntime.dylib
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\runtimes\win-arm64\native\msalruntime_arm64.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\runtimes\win-x64\native\msalruntime.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\bin\Debug\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\OnlineExamApi.csproj.AssemblyReference.cache
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\OnlineExamApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\OnlineExamApi.AssemblyInfoInputs.cache
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\OnlineExamApi.AssemblyInfo.cs
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\OnlineExamApi.csproj.CoreCompileInputs.cache
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\OnlineExamApi.MvcApplicationPartsAssemblyInfo.cs
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\OnlineExamApi.MvcApplicationPartsAssemblyInfo.cache
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\scopedcss\bundle\OnlineExamApi.styles.css
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\staticwebassets.build.json
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\staticwebassets.development.json
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\swae.build.ex.cache
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\OnlineEx.9B9F62FF.Up2Date
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\OnlineExamApi.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\refint\OnlineExamApi.dll
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\OnlineExamApi.pdb
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\OnlineExamApi.genruntimeconfig.cache
+E:\D drive\Online-Examination-System\OnlineExamApi\OnlineExamApi\obj\Debug\net10.0\ref\OnlineExamApi.dll

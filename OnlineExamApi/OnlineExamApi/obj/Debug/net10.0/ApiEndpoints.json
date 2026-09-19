@@ -1,0 +1,264 @@
+[
+  {
+    "ContainingType": "OnlineExamApi.Endpoints.AuthEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapAuthEndpoints\u003Eb__0_0",
+    "RelativePath": "api/auth/login",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "OnlineExamApi.DTOs.Auth.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnlineExamApi.Endpoints.AuthEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapAuthEndpoints\u003Eb__0_1",
+    "RelativePath": "api/auth/register",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "OnlineExamApi.DTOs.Auth.RegisterRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnlineExamApi.Endpoints.ExamEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapExamEndpoints\u003Eb__0_2",
+    "RelativePath": "api/exams/{attemptId}/result",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "attemptId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnlineExamApi.Endpoints.ExamEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapExamEndpoints\u003Eb__0_1",
+    "RelativePath": "api/exams/{attemptId}/submit",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "attemptId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "OnlineExamApi.DTOs.Exam.SubmitExamRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnlineExamApi.Endpoints.TestEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapTestEndpoints\u003Eb__0_0",
+    "RelativePath": "api/tests",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "OnlineExamApi.DTOs.Tests.CreateTestRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnlineExamApi.Endpoints.TestEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapTestEndpoints\u003Eb__0_1",
+    "RelativePath": "api/tests",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnlineExamApi.Endpoints.TestEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapTestEndpoints\u003Eb__0_4",
+    "RelativePath": "api/tests/{testId:int}",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "testId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnlineExamApi.Endpoints.TestEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapTestEndpoints\u003Eb__0_2",
+    "RelativePath": "api/tests/{testId}/publish",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "testId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnlineExamApi.Endpoints.QuestionEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapQuestionEndpoints\u003Eb__0_0",
+    "RelativePath": "api/tests/{testId}/questions",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "testId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "OnlineExamApi.DTOs.Questions.CreateQuestionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnlineExamApi.Endpoints.QuestionEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapQuestionEndpoints\u003Eb__0_1",
+    "RelativePath": "api/tests/{testId}/questions",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "testId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnlineExamApi.Endpoints.ExamEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapExamEndpoints\u003Eb__0_0",
+    "RelativePath": "api/tests/{testId}/start",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "testId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnlineExamApi.Endpoints.TestEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapTestEndpoints\u003Eb__0_3",
+    "RelativePath": "api/tests/published",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
