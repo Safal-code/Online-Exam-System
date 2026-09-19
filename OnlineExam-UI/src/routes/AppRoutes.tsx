@@ -15,7 +15,7 @@ import ResultPage from "../pages/Exam/ResultPage";
 
 import ProfilePage from "../pages/Profile/ProfilePage";
 
-import ProtectedRoute from "../components/layout/ProtectedRoute";
+import ProtectedRoute from "./ProtectedRoute";
 
 export default function AppRoutes() {
   return (
