@@ -14,6 +14,7 @@ public class TestService
         _dbContext = dbContext;
     }
 
+    //create the test by admin
     public async Task<CreateTestResult> Create(
      CreateTestRequest request,
      int userId)
@@ -49,6 +50,7 @@ public class TestService
         };
     }
 
+    //get all test created by admin
     public async Task<List<TestListResult>> GetAll()
     {
         return await _dbContext.Tests
@@ -126,6 +128,7 @@ public class TestService
         };
     }
 
+    //only return published test for users in home page
     public async Task<List<PublishedTestResult>> GetPublished()
     {
         return await _dbContext.Tests

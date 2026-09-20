@@ -7,3 +7,5 @@ public class ExamResult
     public int TotalQuestions { get; set; }
     public bool IsPassed { get; set; }
 }
+
+//needed by frontend to show result

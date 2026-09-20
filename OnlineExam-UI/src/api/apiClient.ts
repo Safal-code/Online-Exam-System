@@ -1,17 +1,19 @@
 const API_BASE_URL = import.meta.env.VITE_API_BASE_URL;
 
-interface RequestOptions extends RequestInit {
+//RequestInit is built in type for fetch option(methods,body,headers)
+interface RequestOptions extends RequestInit {//fetch has no userId option so u define explicitly here
   userId?: number;
 }
 
 export async function apiClient<T>(
   endpoint: string,
-  options: RequestOptions = {}
+  options: RequestOptions = {} //here  ={} is default so it can become empty obj if caller pass nothing
 ): Promise<T> {
-  const { userId, ...fetchOptions } = options;
+  const { userId, ...fetchOptions } = options; //Takes userId out, and puts everything else (method, body...) into fetchOptions.
 
   const headers = new Headers(fetchOptions.headers);
 
+  //tell my data is json
   headers.set("Content-Type", "application/json");
 
   //user id passed on every http req.

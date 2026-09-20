@@ -52,7 +52,8 @@ public class QuestionService
             QuestionText = request.QuestionText,
             QuestionOrder = request.QuestionOrder
         };
-
+        
+        //create each options and adds to it above specific question
         foreach (var optionRequest in request.Options)
         {
             question.Options.Add(new Option
@@ -84,6 +85,7 @@ public class QuestionService
         };
     }
 
+    //gets only questions belonging to that test
     public async Task<List<QuestionResult>> GetByTest(int testId)
     {
         return await _dbContext.Questions
@@ -109,3 +111,5 @@ public class QuestionService
             .ToListAsync();
     }
 }
+
+//handles question creation

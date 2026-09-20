@@ -26,3 +26,5 @@ public class ExamOptionResult
     public string OptionText { get; set; } = null!;
     public int OptionOrder { get; set; }
 }
+
+//sent by backend

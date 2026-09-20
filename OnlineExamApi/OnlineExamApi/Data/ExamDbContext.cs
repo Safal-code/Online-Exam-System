@@ -5,14 +5,14 @@ using OnlineExamApi.Models;
 
 namespace OnlineExamApi.Data;
 
-public partial class ExamDbContext : DbContext
+public partial class ExamDbContext : DbContext  //ExamDbContext is entire db in c#
 {
-    public ExamDbContext(DbContextOptions<ExamDbContext> options)
+    public ExamDbContext(DbContextOptions<ExamDbContext> options)//reads db configuration from program.cs for sql
         : base(options)
     {
     }
 
-    public virtual DbSet<Option> Options { get; set; }
+    public virtual DbSet<Option> Options { get; set; } //DbSet is like db table in c# //so we can write _dbContext.Options
 
     public virtual DbSet<Question> Questions { get; set; }
 
@@ -24,6 +24,8 @@ public partial class ExamDbContext : DbContext
 
     public virtual DbSet<User> Users { get; set; }
 
+
+    //needed to know keys and relationships
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Option>(entity =>
@@ -118,3 +120,7 @@ public partial class ExamDbContext : DbContext
 
     partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
 }
+
+//bridege btw c# app and database
+//we create it so ef core knows which table exist , what relationship exist..
+//..primary keys , foreign keys, constraints, db configurations

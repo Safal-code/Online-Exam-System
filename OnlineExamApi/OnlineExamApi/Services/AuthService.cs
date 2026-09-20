@@ -14,6 +14,7 @@ public class AuthService
         _dbContext = dbContext;
     }
 
+    //try login user and return login info from logninRespone dto
     public async Task<LoginResponse?> Login(LoginRequest request)
     {
         var user = await _dbContext.Users
@@ -30,6 +31,7 @@ public class AuthService
             return null;
         }
 
+        //made dto to send only specific info to frontend and not password
         return new LoginResponse
         {
             UserId = user.UserId,
@@ -42,8 +44,7 @@ public class AuthService
     public async Task<bool> Register(
     RegisterRequest request)
     {
-        var existingUser =
-            await _dbContext.Users
+        var existingUser = await _dbContext.Users
                 .FirstOrDefaultAsync(
                     u => u.UserName == request.UserName
                 );
@@ -61,6 +62,7 @@ public class AuthService
             // Temporary plaintext password, 
             PasswordHash = request.Password,
 
+            //handle role directly in backend
             Role = "User",
             CreatedAt = DateTime.UtcNow
         };

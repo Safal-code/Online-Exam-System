@@ -20,4 +20,5 @@ public class CurrentUserService
     }
 }
 
+//finds a user using their id 
 //coming userid from requestUserService 

@@ -5,4 +5,11 @@ export interface LoginRequest {
   password: string;
 }
 
+
 export type LoginResponse = User;
+
+export interface RegisterRequest {
+  userName: string;
+  name: string;
+  password: string;
+}

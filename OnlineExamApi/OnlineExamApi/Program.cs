@@ -10,11 +10,11 @@ builder.Services.AddDbContext<ExamDbContext>(options =>
         builder.Configuration.GetConnectionString("OnlineExamConnection")));
 
 builder.Services.AddScoped<AuthService>();
-builder.Services.AddScoped<TestService>();
-builder.Services.AddScoped<CurrentUserService>();
-builder.Services.AddScoped<RequestUserService>();
-builder.Services.AddScoped<QuestionService>();
-builder.Services.AddScoped<ExamService>();
+builder.Services.AddScoped<TestService>(); //create, get, publish, delete test
+builder.Services.AddScoped<CurrentUserService>(); //used to find user by their id
+builder.Services.AddScoped<RequestUserService>(); //used to read X-User-Id from http request
+builder.Services.AddScoped<QuestionService>(); //create and retrieve question
+builder.Services.AddScoped<ExamService>(); //start , submit exam , get result //AddScopte for 1 obj per request
 
 builder.Services.AddOpenApi();
 
@@ -39,7 +39,7 @@ if (app.Environment.IsDevelopment())
     app.MapOpenApi();
 }
 
-app.UseHttpsRedirection();
+app.UseHttpsRedirection(); //redirects http req to https
 app.UseCors("Frontend");
 
 //app.MapGet("/api/test-db", async (ExamDbContext db) =>
@@ -59,3 +59,13 @@ app.MapQuestionEndpoints();
 app.MapExamEndpoints();
 
 app.Run();
+
+
+
+
+
+
+
+
+//when app starts it is start point of app Program.cs says:
+//"Use this database, use these services, allow this frontend, create these API endpoints, and now start the application."

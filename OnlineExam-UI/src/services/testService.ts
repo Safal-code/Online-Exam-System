@@ -9,7 +9,7 @@ import type {
 
 export function createTest(
   request: CreateTestRequest,
-  userId: number
+  userId: number,
 ): Promise<Test> {
   return apiClient<Test>("/tests", {
     method: "POST",
@@ -24,9 +24,7 @@ export function getTests(userId: number): Promise<Test[]> {
   });
 }
 
-export function getPublishedTests(
-  userId: number
-): Promise<PublishedTest[]> {
+export function getPublishedTests(userId: number): Promise<PublishedTest[]> {
   return apiClient<PublishedTest[]>("/tests/published", {
     userId,
   });
@@ -34,26 +32,20 @@ export function getPublishedTests(
 
 export function publishTest(
   testId: number,
-  userId: number
+  userId: number,
 ): Promise<PublishTestResult> {
-  return apiClient<PublishTestResult>(
-    `/tests/${testId}/publish`,
-    {
-      method: "POST",
-      userId,
-    }
-  );
+  return apiClient<PublishTestResult>(`/tests/${testId}/publish`, {
+    method: "POST",
+    userId,
+  });
 }
 
 export function deleteTest(
   testId: number,
-  userId: number
+  userId: number,
 ): Promise<{ message: string }> {
-  return apiClient<{ message: string }>(
-    `/tests/${testId}`,
-    {
-      method: "DELETE",
-      userId,
-    }
-  );
+  return apiClient<{ message: string }>(`/tests/${testId}`, {
+    method: "DELETE",
+    userId,
+  });
 }

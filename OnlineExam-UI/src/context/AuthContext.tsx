@@ -1,6 +1,6 @@
 //any component can access user without passing it through 5 components
 import {
-  createContext,
+  createContext, //creates global storage/access system
   useEffect,
   useState,
   type ReactNode,
@@ -14,6 +14,7 @@ interface AuthContextType {
   logout: () => void;
 }
 
+//it creates actual context global box/storage
 export const AuthContext = createContext<AuthContextType | undefined>(
   undefined 
 );
@@ -22,6 +23,7 @@ interface AuthProviderProps {
   children: ReactNode;
 }
 
+//provided context to authcontext
 export function AuthProvider({ children }: AuthProviderProps) {
   const [user, setUser] = useState<User | null>(() => {
     const savedUser = localStorage.getItem("onlineExamUser");

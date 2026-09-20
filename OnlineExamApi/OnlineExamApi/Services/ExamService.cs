@@ -14,13 +14,13 @@ public class ExamService
         _dbContext = dbContext;
     }
 
-    public async Task<StartExamResult?> StartExam(
-        int testId,
-        int userId)
+
+    //start exam and handle duration of it 
+    public async Task<StartExamResult?> StartExam(int testId,int userId)
     {
         var test = await _dbContext.Tests
             .Include(t => t.Questions)
-            .ThenInclude(q => q.Options)
+            .ThenInclude(q => q.Options) //have to use it to go level deeper
             .FirstOrDefaultAsync(t => t.TestId == testId);
 
         if (test == null || !test.IsPublished)
@@ -54,7 +54,7 @@ public class ExamService
             TotalQuestions = test.Questions.Count,
 
             Questions = test.Questions
-                .OrderBy(q => q.QuestionOrder)
+                .OrderBy(q => q.QuestionOrder)  //q is test.Questions
                 .Select(q => new ExamQuestionResult
                 {
                     QuestionId = q.QuestionId,
@@ -105,6 +105,7 @@ public class ExamService
 
         var correctAnswers = 0;
 
+        //loops finds 1 question at a time and check answer and save it in test answers
         foreach (var answer in request.Answers)
         {
             var question = attempt.Test.Questions
@@ -115,9 +116,9 @@ public class ExamService
                 throw new Exception("Invalid question.");
             }
 
-            Option? selectedOption = null;
+            Option? selectedOption = null; //default selected option is null
 
-            if (answer.SelectedOptionId.HasValue)
+            if (answer.SelectedOptionId.HasValue)//if user selected something
             {
                 selectedOption = question.Options
                     .FirstOrDefault(o =>
@@ -194,3 +195,9 @@ public class ExamService
 
 
 }
+
+
+//it controls startind exam
+//submitting exam
+//calculating score
+//retrieving result
